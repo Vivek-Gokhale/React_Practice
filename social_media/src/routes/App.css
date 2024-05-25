@@ -1,0 +1,23 @@
+.block-panel{
+  display: flex;
+}
+.content-panel{
+  width: 100%;
+}
+.post-card{
+  margin: 20px 50px;
+
+}
+.hashtag{
+  margin: 0px 3px;
+}
+.reaction-block{
+  margin-bottom: -100px;
+}
+.create-post{
+  width: 80%;
+  margin: 30px 50px;
+}
+.welcome-msg{
+  margin: 100px;
+}
